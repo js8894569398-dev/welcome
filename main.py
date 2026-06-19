@@ -90,7 +90,7 @@ async def on_member_remove(member):
     await channel.send(embed=embed)
 
 
-=======
+
 import discord
 from discord.ext import commands
 import os
