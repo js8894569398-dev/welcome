@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 import discord
 from discord.ext import commands
 import os
@@ -182,5 +182,4 @@ async def on_member_remove(member):
     await channel.send(embed=embed)
 
 
->>>>>>> 9f03139ce1beeae9a3c3c1f95f83fa6ef2b18d65
 bot.run(TOKEN)
